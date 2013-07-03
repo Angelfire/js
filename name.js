@@ -5,7 +5,7 @@ blah blah blah blah blah Andres";
 var myName = "Andres";
 var hits = [];
 
-// Look for "E" in the text
+// Look for "A" in the text
 for(var i = 0; i < text.length; i++) {
 	if (text[i] == "A") {
 		// If we find it, add characters up to
